@@ -1,0 +1,22 @@
+{
+    "name": "raoul2000/yii2-bootswatch-asset",
+    "description": "Use Bootswatch theme in your Yii application with minimum effort",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","assets","bootstrap","skin","bootswatch"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Raoul",
+            "email": "raoul.boulard@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "thomaspark/bootswatch": "3.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "raoul2000\\bootswatch\\": ""
+        }
+    }
+}
