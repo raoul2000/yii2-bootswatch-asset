@@ -58,7 +58,7 @@ AppAsset::register($this);
 
 ```
 
-For more information on the plugin options, please refer to [fastlivefilter@github](https://github.com/awbush/jquery-fastLiveFilter).
+For more information on the plugin options, please refer to [yii2-bootswatch-asset@github](https://github.com/raoul2000/yii2-bootswatch-asset).
 
 License
 -------
