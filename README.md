@@ -53,7 +53,7 @@ Then at some point you must select the theme name you want to use. In the exampl
 
 // ./views/layouts/main.php
 
-BootswatchAsset::$theme = 'amelia';
+raoul2000\bootswatch\BootswatchAsset::$theme = 'amelia';
 AppAsset::register($this);
 
 ```
