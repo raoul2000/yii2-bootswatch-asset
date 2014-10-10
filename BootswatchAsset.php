@@ -40,7 +40,7 @@ class BootswatchAsset extends AssetBundle
 				throw new InvalidConfigException('No theme Bootswatch configured : set BootswatchAsset::$theme to the theme name you want to use');
 			}
 			$this->css = [
-				strtolower(self::$theme).'/bootstrap.'.( YII_DEBUG ? 'min' : '') .'.css'
+				strtolower(self::$theme).'/bootstrap'.( YII_ENV_DEV ? '.css' : '.min.css' )
 			];
 
 			// optimized asset publication : only publish bootswatch theme folders and font folder.
