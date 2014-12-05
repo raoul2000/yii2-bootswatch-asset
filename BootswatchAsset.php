@@ -35,8 +35,8 @@ class BootswatchAsset extends AssetBundle
 	 */
 	public function init()
 	{
-		if( self::$theme != null) {
-			if( ! is_string(self::$theme) ) {
+		if ( self::$theme != null) {
+			if ( ! is_string(self::$theme) ) {
 				throw new InvalidConfigException('No theme Bootswatch configured : set BootswatchAsset::$theme to the theme name you want to use');
 			}
 			$this->css = [
@@ -46,10 +46,10 @@ class BootswatchAsset extends AssetBundle
 			// optimized asset publication : only publish bootswatch theme folders and font folder.
 
 			$this->publishOptions['beforeCopy'] =  function ($from, $to)  {
-				if( is_dir($from)) {
+				if ( is_dir($from)) {
 					$name = pathinfo($from,PATHINFO_BASENAME);
 					return ! in_array($name, ['2','api','assets','bower_components','tests','help','global','default']);
-				}else {
+				} else {
 					$ext = pathinfo($from,PATHINFO_EXTENSION);
 					return in_array($ext,['css','eot','svg','ttf','woff']);
 				}

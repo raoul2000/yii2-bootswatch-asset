@@ -60,6 +60,13 @@ AppAsset::register($this);
 
 For more information on the plugin options, please refer to [yii2-bootswatch-asset@github](https://github.com/raoul2000/yii2-bootswatch-asset).
 
+Warning
+-------
+If you're using Yii-2.0.0 (the first release) note that the debug toolbar will not be displayed correctly because of [this bug](https://github.com/yiisoft/yii2/issues/5402). It has been
+fixed in the next release, but in the meantime, if you don't want to use the dev-master version, you can temporarly comment lines
+ from 48 to 56 in `vendor/raoul2000/yii2-bootswatch-asset/BootswatchAsset.php`.   
+
+
 License
 -------
 

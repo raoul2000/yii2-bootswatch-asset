@@ -1,3 +1,8 @@
+# version 1.2.0
+- update dependency : thomaspark/bootswatch version 3.3.1 in order to include latest bootswatch themes (journal, sandstone).
+- code style
+- update README.md : add warning
+
 # version 1.1.1
 - fix : minified CSS was not correctly handled. Now, if YII_ENV_DEV is defined bootstrap.css is published, otherwise
 its bootstrap.min.css
