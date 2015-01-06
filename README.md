@@ -2,6 +2,8 @@ yii2-bootswatch-asset
 ==========================
 Asset bunlde around the Bootswatch theme suite. Visit [Bootswatch](http://bootswatch.com/) for more.
 
+<img src="https://www.versioneye.com/php/raoul2000:yii2-bootswatch-asset/1.2.0/badge.svg?style=flat"/>
+
 Installation
 ------------
 
