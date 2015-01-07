@@ -2,7 +2,9 @@ yii2-bootswatch-asset
 ==========================
 Asset bunlde around the Bootswatch theme suite. Visit [Bootswatch](http://bootswatch.com/) for more.
 
+[![Latest Stable Version](https://poser.pugx.org/raoul2000/yii2-bootswatch-asset/v/stable.svg)](https://packagist.org/packages/raoul2000/yii2-bootswatch-asset) [![Total Downloads](https://poser.pugx.org/raoul2000/yii2-bootswatch-asset/downloads.svg)](https://packagist.org/packages/raoul2000/yii2-bootswatch-asset) 
 <img src="https://www.versioneye.com/php/raoul2000:yii2-bootswatch-asset/1.2.0/badge.svg?style=flat"/>
+
 
 Installation
 ------------
