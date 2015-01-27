@@ -1,3 +1,6 @@
+# version 1.2.1
+- update dependency : thomaspark/bootswatch version 3.3.2 after bootstrap 3.3.2 has been release
+
 # version 1.2.0
 - update dependency : thomaspark/bootswatch version 3.3.1 in order to include latest bootswatch themes (journal, sandstone).
 - code style
