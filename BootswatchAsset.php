@@ -51,7 +51,7 @@ class BootswatchAsset extends AssetBundle
 					return ! in_array($name, ['2','api','assets','bower_components','tests','help','global','default']);
 				} else {
 					$ext = pathinfo($from,PATHINFO_EXTENSION);
-					return in_array($ext,['css','eot','svg','ttf','woff']);
+					return in_array($ext,['css','eot','svg','ttf','woff','woff2']);
 				}
 			};
 		}
