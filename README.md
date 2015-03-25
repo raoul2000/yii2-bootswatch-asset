@@ -51,7 +51,7 @@ class AppAsset extends AssetBundle
 ?>
 ```
 
-Then at some point you must select the theme name you want to use. In the example below, the theme 'amelia' is set in the main layout.
+Then at some point you must select the theme name you want to use. In the example below, the theme 'cosmo' is set in the main layout.
 
 ```php
 
