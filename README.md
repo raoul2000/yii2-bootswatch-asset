@@ -62,7 +62,6 @@ AppAsset::register($this);
 
 ```
 
-For more information on the plugin options, please refer to [yii2-bootswatch-asset@github](https://github.com/raoul2000/yii2-bootswatch-asset).
 
 Warning
 -------
