@@ -62,15 +62,6 @@ AppAsset::register($this);
 ```
 
 
-Warning
--------
-If you're using Yii-2.0.0 (the first release) note that the debug toolbar will not be displayed correctly because of [this bug](https://github.com/yiisoft/yii2/issues/5402). It has been
-fixed in the next release, but in the meantime, if you don't want to use the dev-master version, you can temporarly comment lines
- from 48 to 56 in `vendor/raoul2000/yii2-bootswatch-asset/BootswatchAsset.php`.   
- 
- **update** : The version 2.0.1 of yii2 has been released on the 8th of December 2014. It includes the fix for *yii2-debug toolbar* (Bug #5402) so the yii2-bootswatch-asset doesn't cause any more problem.
-
-
 License
 -------
 

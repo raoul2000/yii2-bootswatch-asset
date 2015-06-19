@@ -1,3 +1,6 @@
+# version 1.2.3
+- update dependency : thomaspark/bootswatch version 3.3.5
+
 # version 1.2.2
 - fix : publish *woff2* font "glyphicons-halflings-regular.woff2" (thanks to [jwerner](http://www.yiiframework.com/user/147/))
 
