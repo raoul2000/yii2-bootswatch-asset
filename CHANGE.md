@@ -1,6 +1,6 @@
 # version 1.2.5
 - update dependency : thomaspark/bootswatch version 3.3.5+2. This is to avoid the *Failed to decode downloaded font* error message (see https://github.com/raoul2000/yii2-bootswatch-asset/issues/5)
-- 
+
 # version 1.2.4
 - update dependency : thomaspark/bootswatch version 3.3.5
 
