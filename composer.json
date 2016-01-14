@@ -21,7 +21,7 @@
 	],
 	"require" : {
 		"yiisoft/yii2" : "*",
-		"thomaspark/bootswatch" : "3.3.5+2"
+		"thomaspark/bootswatch" : "3.3.6+1"
 	},
 	"autoload" : {
 		"psr-4" : {
