@@ -1,3 +1,6 @@
+# version 1.2.7
+- update to bootswatch 3.3.7
+
 # version 1.2.6
 - update to bootswatch 3.3.6+1
 
