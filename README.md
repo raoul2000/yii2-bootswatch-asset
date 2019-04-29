@@ -4,6 +4,7 @@ Asset bunlde around the Bootswatch theme suite. Visit [Bootswatch](http://bootsw
 
 [![Latest Stable Version](https://poser.pugx.org/raoul2000/yii2-bootswatch-asset/v/stable.svg)](https://packagist.org/packages/raoul2000/yii2-bootswatch-asset) [![Total Downloads](https://poser.pugx.org/raoul2000/yii2-bootswatch-asset/downloads.svg)](https://packagist.org/packages/raoul2000/yii2-bootswatch-asset) 
 
+This extension is for Bootstrap prior to version 3. If you're using **Bootstrap 4**, please use the [yii2-bootswatch4-asset](https://github.com/raoul2000/yii2-bootswatch4-asset) extension.
 
 Installation
 ------------
